@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: DomIRC
+url: https://domirc.github.io/
+description: Website for the DomIRC network
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
