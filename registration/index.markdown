@@ -12,28 +12,33 @@ You will certainly find the network staff and kind volunteers to help you.
 Registering your nickname prevents other people to use it / steal it from you.  
 It will also allow you to register a channel in order to manage it.
 
-To register a nickname, you will need to type the following command in your IRC client:  
+To register a nickname, you will need to type the following command in your IRC client:
+  
 > /msg NickServ REGISTER \<password\> \<email\>
 
 Replace `<password>` by your own secret password and `<email>` by a valid email address.
 
 You will receive an email confirmation containing a command like that:  
+
 > /msg NickServ VERIFY REGISTER \<code\>
 
 Just copy & paste it in your IRC client and that's all, your nick is now registered!
 
 To login, you will need to configure SASL or type the following command each time you connect to the network:  
+
 > /msg NickServ IDENTIFY \<password\>
 
 Of course, replace `<password>` by the password you used to register.  
 If you are not using your registered nickname, please specify it before the password.
 
 To group another nickname to your account, take it then use the following command:  
+
 > /msg NickServ GROUP
 
 You must be connected to your account for this command to work.
 
 For more information about NickServ's commands:  
+
 > /msg NickServ HELP
 
 
@@ -54,6 +59,7 @@ Once your channel is registered, you may register a channel for any section of y
 ### Group channels
 Any channel whose name begins with a single sharp without matching a domain name (*e.g.* #group) is considered as a **group channel**.  
 To register such a channel, you must already have registered a **domain name channel** related to your group.  
+
 > Example: `Blackfields Network` is an organization, they registered the `#blackfields.net` channel.  
 > As their official acronym is `BFNT`, they have been able to register the `#bfnt` channel.
 
@@ -66,6 +72,7 @@ Any channel whose name begins by *at least* two sharp (*e.g.* ##channel) may be 
 
 ### How to register
 To register a channel, you just have to type the following command in your IRC client:  
+
 > /msg ChanServ REGISTER \<channel\>
 
 Replace `<channel>` by the name of the channel you wish to register.  
@@ -74,4 +81,5 @@ When you are allowed to register a channel, you are granted its foundership.
 You may register multiple channels under the same nickname.
 
 For more information about ChanServ's commands:  
+
 > /msg ChanServ HELP
