@@ -1,6 +1,6 @@
-name: DomIRC
+name: DomIRC Network
 url: https://domirc.github.io/
-description: Website for the DomIRC network
+description: A network for domain owners and communities.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
