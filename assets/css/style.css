@@ -55,14 +55,18 @@ sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
 code {
-    font: 0.85em Monaco, Courier, Monospace;
+    font: 1em Monaco, Courier, Monospace;
+	background-color: #111111;
+	color: #93a1a1;
+	border: 1px solid #DFECE6;
+    border-radius: 3px 3px 3px 3px;
 }
 
 blockquote {
     margin: 22px 22px;
     padding: 0 20px;
     border-left: 2px solid #000000;
-    font-size: 1.2em;
+    font-size: 1em;
     font-style: italic;
     line-height: 1.5em;
 }
@@ -75,16 +79,16 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 17px;
-	margin: 0 0 10px 0;
+	font-size: 23px;
+	margin: 10px 0 10px 0;
 }
 h2 {
-	font-size: 15px;
-	margin: 0 0 10px 0;
+	font-size: 20px;
+	margin: 10px 0 10px 0;
 }
 h3 {
-	font-size: 14px;
-	margin: 0 0 10px 0;
+	font-size: 17px;
+	margin: 10px 0 10px 0;
 }
 
 
