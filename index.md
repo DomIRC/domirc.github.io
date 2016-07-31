@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to DomIRC
+title: DomIRC - Home
 ---
 
 Welcome to DomIRC's website!

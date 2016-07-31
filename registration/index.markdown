@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Registration
+title: DomIRC - Registration
 ---
 
 # REGISTRATION
