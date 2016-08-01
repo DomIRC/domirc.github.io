@@ -48,6 +48,9 @@ Trying to register a channel with an unregistered nickname or without being iden
 
 
 ### Domain name channels
+
+> **Warning:** The DNS field checking module isn't available yet. Verifications are currently done by hand.
+
 In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record as `DomIRC <nick>` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
 You will need to replace `<nick>` by the nickname you use on DomIRC in order to prove your domain name ownership.  
 If you're not able to add a TXT DNS record on your domain root, put `@` in the subdomain field.
