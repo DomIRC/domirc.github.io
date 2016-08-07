@@ -49,15 +49,15 @@ Trying to register a channel with an unregistered nickname or without being iden
 
 ### Domain name channels
 
-> **Warning:** The DNS field checking module isn't available yet. Verifications are currently done by hand.
-
-In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record as `DomIRC <nick>` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
-You will need to replace `<nick>` by the nickname you use on DomIRC in order to prove your domain name ownership.  
+In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record as `DomIRC <nick> [nick2 [nick3…]]` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
+You will need to replace `<nick>` by the **account name** you use on DomIRC in order to prove your domain name ownership.  
 If you're not able to add a TXT DNS record on your domain root, put `@` in the subdomain field.
+
+> Example: `Someone` wants to register `example.com`, but they may want to let their friend `Somebody` register it as they are not available right now. The TXT record to add is `DomIRC Someone Somebody` with the case you want as the system is case-insensitive.
 
 If your nickname doesn't match the one in the record or the record is otherwise invalid, channel registration will fail.  
 We advise you remove the TXT record once your channel is registered in order to prevent channel theft if your nickname is dropped.  
-Once your channel is registered, you may register a channel for any section of your website (*e.g.* #domain.tld/staff) without needing verification.
+Once your channel is registered, you may register a channel for any section of your website (*e.g.* #domain.tld/staff), the network staff will quickly approve it.
 
 
 ### Group channels
@@ -68,10 +68,10 @@ To register such a channel, you must already have registered a **domain name cha
 > As their official acronym is `BFNT`, they have been able to register the `#bfnt` channel.
 
 Please note that those channels require a manual approval by the network staff, who will approve them at their sole discretion.
-Once you have a **group channel** registered to your name, you may register any additionnal channel whose name begins with the primary channel name's followed by a dash (*e.g.* #group-dev) without any other verification.
+Once you have a **group channel** registered to your name, you may register any additionnal channel whose name begins with the primary channel name's followed by a dash (*e.g.* #group-dev), the network staff will quickly approve it.
 
 ### Topical channels
-Any channel whose name begins by *at least* two sharp (*e.g.* ##channel) may be registered without any restriction.  
+Any channel whose name begins by *at least* two sharp (*e.g.* ##channel) can be registered without any restriction.  
 
 
 ### How to register
