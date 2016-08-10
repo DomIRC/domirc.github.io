@@ -58,7 +58,7 @@ If you're not able to add a TXT DNS record on your domain root, put `@` in the s
 
 If your account name doesn't match any name in the TXT record or if the record is badly formatted, channel registration **will** fail.  
 We advise you to remove the TXT record once your channels are all registered in order to prevent channel theft if your account is dropped.  
-You may register any related sub-channel (*e.g.* #domain.tld/staff), the DNS check will be performed every time.
+You may register any related sub-channel (*e.g.* #domain.tld/staff) as well, the DNS check will be performed every time.
 
 
 ### Group channels
