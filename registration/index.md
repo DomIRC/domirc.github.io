@@ -57,19 +57,20 @@ If you're not able to add a TXT DNS record on your domain root, put `@` in the s
 > Example: `Someone` wants to register a domain name channel, but they may want to let their friend `Somebody` register it as they are not available right now. The TXT record to add is `DomIRC Someone Somebody` with the case you want as the system is case-insensitive.
 
 If your account name doesn't match any name in the TXT record or if the record is badly formatted, channel registration **will** fail.  
-We advise you remove the TXT record once your channel is registered in order to prevent channel theft if your account is dropped.  
-Once your channel is registered, you may register a channel for any section of your website (*e.g.* #domain.tld/staff), the network staff will quickly approve it.
+We advise you to remove the TXT record once your channels are all registered in order to prevent channel theft if your account is dropped.  
+You may register any related sub-channel (*e.g.* #domain.tld/staff), the DNS check will be performed every time.
 
 
 ### Group channels
-Any channel whose name begins with a single sharp without matching a domain name (*e.g.* #group) is considered as a **group channel**.  
-To register such a channel, you must already have registered a **domain name channel** related to your group.  
+Any channel whose name begins by a single sharp without matching a domain name (*e.g.* #group) is considered as a **group channel**.  
+To register such a channel, you must already have registered at least one **domain name channel** related to your group.  
+Registrations of those channels are processed on a case-by-case basis at staff discretion.
 
 > Example: `Blackfields Network` is an organization, they registered the `#blackfields.net` channel.  
 > As their official acronym is `BFNT`, they have been able to register the `#bfnt` channel.
 
 Please note that those channels require a manual approval by the network staff, who will approve them at their sole discretion.
-Once you have a **group channel** registered to your name, you may register any additionnal channel whose name begins with the primary channel name's followed by a dash (*e.g.* #group-dev), the network staff will quickly approve it.
+Once you have a **group channel** registered to your name, you may register any additionnal channel whose name begins by the primary channel name's followed by a dash (*e.g.* #group-dev), it will check your foundership status of the said primary channel.
 
 ### Topical channels
 Any channel whose name begins by *at least* two sharp (*e.g.* ##channel) can be registered without any restriction.  
