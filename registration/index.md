@@ -61,7 +61,7 @@ We advise you to remove the TXT record once your channels are all registered in 
 
 
 ### Group channels
-Any channel whose name begins by a single sharp without matching a domain name (*e.g.* #group) is considered as a **group channel**.  
+Group channels begin by a single sharp and do not match the syntax of a domain name (*e.g.* #group).  
 To register such a channel, you must already have registered at least one **domain name channel** related to your group.  
 Registrations of those channels are processed on a case-by-case basis at staff discretion.
 
