@@ -57,8 +57,7 @@ If you're not able to add a TXT DNS record on your domain root, put `@` in the s
 > Example: `Someone` wants to register a domain name channel, but they may want to let their friend `Somebody` register it as they are not available right now. The TXT record to add is `DomIRC Someone Somebody` with the case you want as the system is case-insensitive.
 
 If your account name doesn't match any name in the TXT record or if the record is badly formatted, channel registration **will** fail.  
-We advise you to remove the TXT record once your channels are all registered in order to prevent channel theft if your account is dropped.  
-You may register any related sub-channel (*e.g.* #domain.tld/staff) as well, the DNS check will be performed every time.
+We advise you to remove the TXT record once your channels are all registered in order to prevent channel theft if your account is dropped. You may register any related sub-channel (*e.g.* #domain.tld/staff) as well, the DNS check will be performed every time.
 
 
 ### Group channels
