@@ -5,8 +5,16 @@ title: DomIRC - About
 
 # ABOUT
 
-On this page, you will find more detailed information about the [network staff](#network-staff), the [parent organization](#parent-organization),  
-the [registered group channels](#registered-group-channels) and a list of [contributors](#contributors) who helped with custom developments related to the network.  
+On this page, you will find more detailed information about the [parent organization](#parent-organization),  the [network staff](#network-staff),  
+the [network sponsors](#network-sponsors), the [registered group channels](#registered-group-channels), the [registered providers](#registered-providers) and  
+the [contributors](#contributors) who helped with the network's custom developments.  
+
+
+## Parent Organization
+
+The DomIRC's parent organization is [Blackfields Network](https://blackfields.net).  
+It is a french non-profit organization registered under the identifier [W832014133](https://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&original_method=get&JTY_WALDEC=W832014133).  
+Organization membership is mandatory for our operators, but not restricted to them.  
 
 
 ## Network Staff
@@ -29,11 +37,13 @@ There is no helper at this point, please refer to an operator instead.
 ‣ **Sigyn** (domirc/utility-bot/sigyn) - Network Bot  
 
 
-## Parent Organization
+## Network Sponsors
 
-The DomIRC's parent organization is [Blackfields Network](https://blackfields.net).  
-It is a french non-profit organization registered under the identifier [W832014133](https://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&original_method=get&JTY_WALDEC=W832014133).  
-Organization membership is mandatory for our operators, but not restricted to them.  
+The **network sponsors** are people or organizations contributing to the network by  
+freely lending one or more servers in order to host some parts of our infrastructure.  
+
+If you want to become a **network sponsor**, please get in touch with the network staff,  
+they will tell you about our policies and procedures, or redirect you to the right place.  
 
 
 ## Registered Group Channels
@@ -43,6 +53,17 @@ The channels are listed by alphabetical order.
 ‣ **#bfnt** - Blackfields Network, the parent organization of DomIRC.  
 ‣ **#domirc** - The DomIRC network itself, general support channel.  
 ‣ **#idlerpg** - The DomIRC's official IdleRPG channel.  
+
+
+## Registered Providers
+
+The **registered providers** are people or organizations providing some services  
+such as a **webchat**, an IRC **bouncer**, a **shell access** or a **VPN** (examples).  
+
+They are given an extended connection limit and a [gateway cloak](/cloaks/#gateway-cloaks) is applied on their IPs.  
+
+If you want to become a **registered provider**, please get in touch with the network staff,  
+they will tell you about our policies and procedures, or redirect you to the right place.  
 
 
 ## Contributors
