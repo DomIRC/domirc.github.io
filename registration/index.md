@@ -11,15 +11,15 @@ You will certainly find the network staff and kind volunteers to help you.
 
 ## Registering an account  
 
-Registering an account allows you to keep one or more nicks,  
-it prevents other people to use them (if enforced) or steal them from you.  
+Registering an account allows you to keep one or more nicks.  
+It prevents other people to use them (if enforced) or steal them from you.  
 It will also allow you to register a channel in order to manage it.
 
 To register a nickname, you will need to type the following command in your IRC client:
-  
+
 > /msg NickServ REGISTER \<password\> \<email\>
 
-Replace `<password>` by your own secret password and `<email>` by a valid email address.
+Replace `<password>` with your own secret password and `<email>` by a valid email address.
 
 You will receive an email containing a NickServ command to validate your account.  
 Just copy & paste it in your IRC client and that's all, your nick is now registered!
@@ -28,7 +28,7 @@ To login, you will need to configure SASL or type the following command each tim
 
 > /msg NickServ IDENTIFY \<password\>
 
-Of course, replace `<password>` by the password you used to register.  
+Of course, replace `<password>` with the password you used to register.  
 If you are not using your registered nickname, please specify it before the password.
 
 To group another nickname to your account, take it then use the following command:  
@@ -52,7 +52,7 @@ Trying to register a channel without being identified to services with a valid a
 
 In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record as  
 `DomIRC <nick> [nick2 [nick3…]]` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
-You will need to replace `<nick>` by the **account name** you use on DomIRC in order to prove your domain name ownership.  
+You will need to replace `<nick>` with the **account name** you use on DomIRC in order to prove your domain name ownership.  
 If you're not able to add a TXT DNS record on your domain root, put `@` in the subdomain field.
 
 > Example: `Someone` wants to register a domain name channel, but they may want to let their friend `Somebody` register it as they are not available right now. The TXT record to add is `DomIRC Someone Somebody` with the case you want as the system is case-insensitive.
@@ -81,7 +81,7 @@ To register a channel, you just have to type the following command in your IRC c
 
 > /msg ChanServ REGISTER \<channel\>
 
-Replace `<channel>` by the name of the channel you wish to register.  
+Replace `<channel>` with the name of the channel you wish to register.  
 In the case of a **topical channel**, will need to be an operator in the said channel.  
 When you are allowed to register a channel, you are granted its foundership.  
 You may register multiple channels under the same nickname.
