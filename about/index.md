@@ -18,16 +18,16 @@ You can get a list of available operators and helpers by typing the `/stats p` c
 
 ### Operators
 
- ‣ **Xenthys** (domirc/staff/xenthys) - System Administrator  
- ‣ **Zoddo** (domirc/staff/zoddo) - Network Operator  
+‣ **Xenthys** (domirc/staff/xenthys) - System Administrator  
+‣ **Zoddo** (domirc/staff/zoddo) - Network Operator  
 
 ### Helpers
 
- ‣ (nobody - please refer to an operator instead)  
+There is no helper at this point, please refer to an operator instead.  
 
 ### Bots
 
- ‣ **Sigyn** (domirc/utility-bot/sigyn) - Network Bot  
+‣ **Sigyn** (domirc/utility-bot/sigyn) - Network Bot  
 
 
 ## Parent Organization
@@ -41,13 +41,13 @@ Organizational membership is mandatory for our operators, but not restricted to 
 
 The channels are listed by alphabetical order.  
 
- ‣ **#bfnt** - Blackfields Network, the parent organization of DomIRC.  
- ‣ **#domirc** - The DomIRC network itself, general support channel.  
- ‣ **#idlerpg** - The DomIRC's official IdleRPG channel.  
+‣ **#bfnt** - Blackfields Network, the parent organization of DomIRC.  
+‣ **#domirc** - The DomIRC network itself, general support channel.  
+‣ **#idlerpg** - The DomIRC's official IdleRPG channel.  
 
 
 ## Contributors
 
- ‣ **DomIRC Development Team** - For the **ACK Service**, and basically any custom development not cited below.
- ‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For the custom **cs_access** and **cs_successor** Atheme modules.
- ‣ **s0r00t** ([Website](https://s0r00t.github.io) / [GitHub](https://github.com/s0r00t)) - For the DNS check in the custom **cs_moderate** Atheme module.
+‣ **DomIRC Development Team** - For the **ACK Service**, and basically any custom development not cited below.  
+‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For the custom **cs_access** and *cs_successor** Atheme modules.  
+‣ **s0r00t** ([Website](https://s0r00t.github.io) / [GitHub](https://github.com/s0r00t)) - For the DNS check in the custom **cs_moderate** Atheme module.  
