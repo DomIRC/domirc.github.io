@@ -9,9 +9,10 @@ If you need help with a registration or don't understand something, please join 
 You will certainly find the network staff and kind volunteers to help you.
 
 
-## Registering a nickname  
+## Registering an account  
 
-Registering your nickname prevents other people to use it / steal it from you.  
+Registering an account allows you to keep one or more nicks,  
+it prevents other people to use them (if enforced) or steal them from you.  
 It will also allow you to register a channel in order to manage it.
 
 To register a nickname, you will need to type the following command in your IRC client:
@@ -43,8 +44,8 @@ For more information about NickServ's commands:
 
 ## Registering a channel
 
-Before registering any channel, you must have registered your nickname (see [Registering a nickname](#registering-a-nickname)).  
-Trying to register a channel with an unregistered nickname or without being identified to services **will** fail.
+Before registering any channel, you must have registered your nickname (see [registering an account](#registering-an-account)).  
+Trying to register a channel without being identified to services with a valid account **will** fail.
 
 
 ### Domain name channels
