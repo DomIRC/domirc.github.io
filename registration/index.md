@@ -5,7 +5,7 @@ title: DomIRC - Registration
 
 # REGISTRATION
 
-If you need help with a registration or don't understand something, please join the `#domirc` channel.  
+If you need help with a registration or don't understand something, please join the **#domirc** channel.  
 You will certainly find the network staff and kind volunteers to help you.
 
 
