@@ -5,9 +5,8 @@ title: DomIRC - About
 
 # ABOUT
 
-On this page, you will find more detailed information about the [network staff](#network-staff), 
-the [parent organization](#parent-organization), the [registered group channels](#registered-group-channels) and 
-a list of [contributors](#contributors) who helped with custom developments related to the network.  
+On this page, you will find more detailed information about the [network staff](#network-staff), the [parent organization](#parent-organization),  
+the [registered group channels](#registered-group-channels) and a list of [contributors](#contributors) who helped with custom developments related to the network.  
 
 
 ## Network Staff
