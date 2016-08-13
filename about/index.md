@@ -34,7 +34,7 @@ There is no helper at this point, please refer to an operator instead.
 
 The DomIRC's parent organization is [Blackfields Network](https://blackfields.net).  
 It is a french non-profit organization registered under the identifier [W832014133](https://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&original_method=get&JTY_WALDEC=W832014133).  
-Organizational membership is mandatory for our operators, but not restricted to them.  
+Organization membership is mandatory for our operators, but not restricted to them.  
 
 
 ## Registered Group Channels
@@ -49,5 +49,5 @@ The channels are listed by alphabetical order.
 ## Contributors
 
 ‣ **DomIRC Development Team** - For the **ACK Service**, and basically any custom development not cited below.  
-‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For the custom **cs_access** and *cs_successor** Atheme modules.  
+‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For the custom **cs_access** and **cs_successor** Atheme modules.  
 ‣ **s0r00t** ([Website](https://s0r00t.github.io) / [GitHub](https://github.com/s0r00t)) - For the DNS check in the custom **cs_moderate** Atheme module.  
