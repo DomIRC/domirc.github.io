@@ -6,7 +6,7 @@ title: DomIRC - Home
 ## Welcome to DomIRC's website!
 
 DomIRC is an IRC network for all domain name owners and their communities.  
-It's been made as a means to easily contact webmasters and talk with people visiting the same websites.  
+It's to be used as a means to easily contact webmasters and talk with people visiting the same websites.  
 
 To join us, please [click here](ircs://irc.domirc.net:6697) or connect to **irc.domirc.net** port **6697** (SSL) or **6667** (plain) using your favourite IRC client!  
 You can also use the [webchat](webchat) to connect immediately without the need to download anything.
