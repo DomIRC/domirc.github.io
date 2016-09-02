@@ -16,6 +16,6 @@ DomIRC is endorsed by [Blackfields Network](/about/#parent-organization). Networ
 Need help registering your nickname or your channel on the network? We have a [registration](registration) page to answer all of your questions.  
 If you want to get a vHost, please see our [cloaks](cloaks) page as well to know how they work on DomIRC.
 
-Please join the **#domirc** channel for any your network-related question or querie, where the staff and helpful users will be happy to assist you.
+Please join the **#domirc** channel for any network-related question or query, where the staff and helpful users will be happy to assist you.
 
 **This website is on GitHub, feel free to [contribute](https://github.com/DomIRC/domirc.github.io)!**
