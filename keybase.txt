@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/xenthys
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://domirc.net
+  * I am xenthys (https://keybase.io/xenthys) on keybase.
+  * I have a public key with fingerprint 89ED 31A7 8A29 F025 1C75  7249 4ED2 D0AE 449F C57E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b9943d635903c316a2a6345a43aef645f1e22abf7554d4d4ca65c7d2e4f22e2a0a",
+            "fingerprint": "89ed31a78a29f0251c7572494ed2d0ae449fc57e",
+            "host": "keybase.io",
+            "key_id": "4ed2d0ae449fc57e",
+            "kid": "0101b9943d635903c316a2a6345a43aef645f1e22abf7554d4d4ca65c7d2e4f22e2a0a",
+            "uid": "80204320069d25cd44c5ca5497389819",
+            "username": "xenthys"
+        },
+        "service": {
+            "hostname": "domirc.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473791788,
+    "expire_in": 157680000,
+    "prev": "382b7d78041e9b59d898b9f9900e9d3ddc864e920acacf0bed499051ffb8411a",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD56NFGyCxEVKeQaRCS6Mzt7mQOZgSTHKCI4lVQcZndmdfO4
+ezy7RzORyuwhKCSiohs9JEKk0cWXrEwrOKJFUdFF6AInK4gseihQsGal3nps5mGY
+f77vm+//+O/nBwN5Gc87f56dOH3GyhgdOp4MbH1ZVdIq6A5tEUKtQj2bOViMMteL
+1ltUCAkiEIGOMZKoIslYlAwJKAQSRUIyQRJhpoJkEzAIiW6qsowo3wZRZEOlkCET
+QgaJSIQSwbTsWpaIJyzb47IaZlQCRNUIxKYIZWCosgoRRoxCKhKGEDYNWWWcWOe4
+PoOb04nLSi2H1/glOmPvH/j/7Ds5I6eJUEQSFEUFUygbFCFDNoiMsCppWAPYB7os
+YZMGxtG7me3VtbhCW4nAi02Wwfxc/Ub+AKjTYCWMUpt5nBhPOJ5jODFer/O8uBvy
+eV5L3Ac2Mz36RyKqWzblIXJGE0u4lmMLIcCRhmf5mgCpkoqBqmklAtsdtxIsavkI
+WVU0kS//H9bEJSUN6ipVNREBhnUZU96Ajk2MRZFhKlFqaApiGIrEIIYp6owi/iYD
+09Q1BICficsabUcIQch9klqu6Vq1NvGSCSa03R3ckRXIyAvMys70pyuQlzvv78wF
+H+dMlxf1OuPHTgUX5aYfTjzZ9mD7o7IOefLK5OvWLdmHxtzIimVHLh54FHOqY92x
+p9dO9U+3RJa8mfpiFDrh4l3z85b0LjhztG9v/eUv89qVZEf5pXid0Lg+/XXzndn1
+U59/vXr1adWNVNbQhvS50f4eMLazG9/uF8ary7rTb8+tIOcHV+4pLLgajjdWfLv5
++EYw9b6jPbWv61bljws1NaMgfzGoqBp+Vnxy9UhPW9fiqqwL+W5FH/mFHn6OqIcP
+RjYvzUxvXGc9vde8XL1e5K5RK+duOj78/cXA2eFUwUhzV+/HtZUTS495t86P5Sz8
+8GzghNeZCs9/lxt2KlZufwIb54zt7/gNrcxEOg==
+=JNLy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xenthys
+
+==================================================================
+
