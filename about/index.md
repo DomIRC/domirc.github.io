@@ -52,13 +52,15 @@ The channels are listed by alphabetical order.
 
 ‣ **#bfnt** - Blackfields Network, the parent organization of DomIRC.  
 ‣ **#domirc** - The DomIRC network itself, general support channel.  
+‣ **#elitebnc** - [EliteBNC](https://www.elitebnc.org/) is a registered IRC bouncer provider.  
 ‣ **#idlerpg** - The DomIRC's official IdleRPG channel.  
+‣ **#superbnc** - [SuperBNC](https://superbnc.com/) is a registered IRC bouncer provider.  
 
 
 ## Registered Providers
 
 The **registered providers** are people or organizations providing some services  
-such as a **webchat**, an IRC **bouncer**, a **shell access** or a **VPN** (examples).  
+such as a **webchat**, an **IRC bouncer**, **shell accounts** or a **VPN** (examples).  
 
 They are given an extended connection limit and a [gateway cloak](/cloaks/#gateway-cloaks) is applied on their IPs.  
 
@@ -69,5 +71,7 @@ they will tell you about our policies and procedures, or redirect you to the rig
 ## Contributors
 
 ‣ **DomIRC Development Team** - For the **ACK Service**, and basically any custom development not cited below.  
-‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For the custom **cs_access** and **cs_successor** Atheme modules.  
+‣ **Charybdis IRCd Team** ([Website](http://charybdis.io) / [GitHub](https://github.com/charybdis-ircd)) - For [Charybdis](https://github.com/charybdis-ircd/charybdis), the awesome base of our server software.  
+‣ **Atheme Team** ([Website](http://atheme.net) / [GitHub](https://github.com/atheme)) - For [Atheme](https://github.com/atheme/atheme), the network services we are using everyday.  
+‣ **freenode** ([Website](https://freenode.net) / [GitHub](https://github.com/freenode)) - For [Sigyn](https://github.com/freenode/Sigyn) and the custom **cs_access** and **cs_successor** Atheme modules.  
 ‣ **s0r00t** ([Website](https://s0r00t.github.io) / [GitHub](https://github.com/s0r00t)) - For the DNS check in the custom **cs_moderate** Atheme module.  
