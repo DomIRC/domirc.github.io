@@ -42,6 +42,10 @@ There is no helper at this point, please refer to an operator instead.
 The **network sponsors** are people or organizations contributing to the network by  
 freely lending one or more servers in order to host some parts of our infrastructure.  
 
+As DomIRC is centrally managed by its [parent organization](#parent-organization), this is the only way to  
+sponsorise the network as we must have the control over every server (root access required).  
+Linking a server to DomIRC is therefore not possible, as we even use our own IRCd fork.  
+
 If you want to become a **network sponsor**, please get in touch with the network staff,  
 they will tell you about our policies and procedures, or redirect you to the right place.  
 
