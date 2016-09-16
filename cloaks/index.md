@@ -7,8 +7,9 @@ title: DomIRC - About
 
 A **cloak** is an alternative name for a **vHost** (virtual host).  
 On DomIRC, you can find three types of vHosts: the [user](#user-cloaks) cloaks, the [group](#group-cloaks) cloaks and the [gateway](#gateway-cloaks) cloaks.  
+To request a cloak, please directly ask publicly in **#domirc** or see the `/msg HelpServ help request` command if you prefer the private way.  
 Each cloak you can see on the network is unique, so you can safely use them to target only one person.  
-Bot cloaks are considered as  **user cloaks** or **group cloaks**.  
+Bot cloaks are considered as **user cloaks** or **group cloaks**.  
 
 
 ## User Cloaks
