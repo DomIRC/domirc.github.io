@@ -1,20 +1,21 @@
 ---
 layout: default
-title: DomIRC - About
+title: DomIRC - Cloaks
 ---
 
 # CLOAKS
 
 A **cloak** is an alternative name for a **vHost** (virtual host).  
 On DomIRC, you can find three types of vHosts: the [user](#user-cloaks) cloaks, the [group](#group-cloaks) cloaks and the [gateway](#gateway-cloaks) cloaks.  
-To request a cloak, please directly ask publicly in **#domirc** or see the `/msg HelpServ help request` command if you prefer the private way.  
+To request a cloak, please ask in **#domirc** or see the `/msg HelpServ help request` command if you prefer the private way.  
 Each cloak you can see on the network is unique, so you can safely use them to target only one person.  
 Bot cloaks are considered as **user cloaks** or **group cloaks**.  
 
 
 ## User Cloaks
 
-By default, when you connect to DomIRC, your [hostname](https://en.wikipedia.org/wiki/Hostname) is publicly visible and displayed when someone performs a `/whois` on you.  
+By default, when you connect to DomIRC, your [hostname](https://en.wikipedia.org/wiki/Hostname) is publicly displayed whenever someone performs a `/whois` on you.  
+It can also be seen when you join/part a channel or quit the network, and IRC bots are usually keeping it for various reasons.  
 If you have an account (see [registering an account](/registration/#registering-an-account)), you can request a **user cloak** to change your displayed hostname.  
 Your account name **must only** contain letters, numbers and hyphens. Special characters are not allowed.  
 
