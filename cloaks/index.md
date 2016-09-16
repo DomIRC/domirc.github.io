@@ -53,11 +53,11 @@ A **nat cloak** is considered as a **gateway cloak** and has the same properties
 Those are automatically applied when you connect from some places with an extended connection limit.
 
 
-# Security Considerations
+## Security Considerations
 
-A **cloak**, no matter the one we are talking about, will **never** protect nor hide your  
-IP address properly. Anyone with enough knowledge about IRC knows that, and some of them know  
-how to do (you can find tutorials yourself) as a `/whois` is not the only mean to get someone's informations.  
+A **cloak**, no matter the one we are talking about, will **never** protect nor hide your IP address properly.  
+Anyone with enough knowledge about IRC knows (or should know) that, and some people know how to pretty easily  
+get your IP (you can find tutorials yourself) as a `/whois` is not the only means to get someone's informations.  
 
 So, having a **cloak** on DomIRC only allows you to display something else in **whois requests**  
 and not having your IP address in everyone's logs, as some channels might publish them.  
