@@ -26,8 +26,8 @@ You can also use the `/msg HelpServ help request` command.
 
 ### Operators
 
-‣ **Xenthys** (domirc/staff/xenthys) - System Administrator  
-‣ **Zoddo** (domirc/staff/zoddo) - Network Operator  
+‣ **Xenthys** (Dylan Ysmal) - System Administrator  
+‣ **Zoddo** (Yohan Prod'homme) - Network Operator  
 
 ### Helpers
 
