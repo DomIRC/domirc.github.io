@@ -50,8 +50,7 @@ Trying to register a channel without being identified to services with a valid a
 
 ### Domain name channels
 
-In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record as  
-`DomIRC <nick> [nick2 [nick3…]]` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
+In order to register a channel matching your domain name (*e.g.* #domain.tld) you have to set a TXT record for the domain with the value `DomIRC <nick> [nick2 [nick3…]]` (case insensitive) on the domain root or any subdomain you wish to register on the network.  
 You will need to replace `<nick>` with the **account name** you use on DomIRC in order to prove your domain name ownership.  
 If you're not able to add a TXT DNS record on your domain root, put `@` in the subdomain field.
 
