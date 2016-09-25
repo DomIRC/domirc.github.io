@@ -1,0 +1,41 @@
+---
+layout: default
+title: DomIRC - iframe
+---
+
+<script>
+	function writeIframe()
+    {
+		if (document.getElementById("channel").value != null && document.getElementById("nickname").value != null)
+		{
+            var channel = document.getElementById("channel").value;
+		    var nickname = document.getElementById("nickname").value;
+		    var theme = document.getElementById("theme").value;
+		    var iframeResult = "&lt;iframe src=\"https://kiwiirc.com/client?settings=476dafcfa80a95a09511e99cc9fa9d5c&amp;nick=default_nick&amp;theme=chosen_theme#channel\" style=\"border:0; width:100%; height:450px;\"&gt;&lt;/iframe&gt;"
+		    iframeResult = iframeResult.replace("default_nick", nickname);
+		    iframeResult = iframeResult.replace("chosen_theme", theme);
+		    iframeResult = iframeResult.replace("#channel", channel);
+		    document.getElementById("result").innerHTML = "<p id=\"result\">Resulting iframe :<br><code>"+iframeResult+"</code></p>";
+		}
+		return null;
+    }
+</script>
+
+<h1 id="domirc-webchat">Putting your channel on your website</h1>
+ <p>By filling this form, you can get an iframe that you can include on your website which will allow your users to connect to your channel on DomIRC.</p>
+ <p>Note : Putting an interrogation mark in the default username field will result in it being converted to a random set of numbers when they connect to the channel.</p>
+ <form onsubmit="return false;">
+  Channel:<br>
+  <input type="text" name="channel" id="channel" placeholder="#channel" required><br>
+  Default nickname:<br>
+  <input type="text" name="nickname" id="nickname" placeholder="user|?" required><br>
+  Theme:<br>
+  <select name="theme" id="theme">
+    <option value="cli">cli (default)</option>
+    <option value="relaxed">relaxed</option>
+    <option value="basic">basic</option>
+    <option value="mini">mini</option>
+  </select><br>
+  <button onclick="writeIframe();">Submit</button>
+</form>
+<p id="result">Resulting iframe : </p>
