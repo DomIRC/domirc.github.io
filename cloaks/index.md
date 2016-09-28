@@ -31,12 +31,20 @@ You should also read the [security considerations](#security-considerations) bef
 
 ## Group Cloaks
 
-A **group cloak** is a cloak that can only be requested by the founders of an **approved channels**.  
-An **approved channel** has the **HOLD** flag, see `/msg ChanServ help info` to know how to check it.  
+A **group cloak** is a cloak that can only be requested by the founders of any **primary channel**.  
+A **primary channel** begins by a single **#**. Cloak requests are accepted per staffer discretion.  
+
+[Topical channels](/registration/#topical-channels) can also make cloak requests if they have the **HOLD** flag (given by the network staff).  
+You can check a channel's hold status by using ChanServ's INFO command (**/msg ChanServ help info**).
 
 A **group cloak** has the appearance of `<channel>/<whatever>`, where **\<channel\>** is replaced with  
 the channel name, except for **topical channels** which are prefixed by the `about/` indication, and  
 **\<whatever\>** is replaced with whatever is requested by the founder as long as the cloak remains unique.  
+
+If your channel is a **domain name** channel, you can also request cloaks that look like subdomains.  
+Those cloaks can use both dot separation and slash separation, like any URL you can find on the net.  
+It should be allowed as long as it does not contain any mean word and is entirely unique.  
+If your domain name itself contains insults or mean words, you will not be able to request any cloak for it.  
 
 A **bot cloak** has no specific appearance and must also be requested by the founders.  
 
