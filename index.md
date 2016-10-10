@@ -9,12 +9,17 @@ title: DomIRC - Home
 ## What is DomIRC?
 
 DomIRC is an IRC network for all domain name owners and their communities.  
+It's to be used as a means to easily contact webmasters and talk with people visiting the same websites.  
 
-It breaks the "**first arrived, first served**" principle of IRC channels, so you can register
+We break the "**first arrived, first served**" principle of IRC channels, so you can register
 a [domain name channel](/registration/#domain-name-channels) only if you are its owner, control
 the DNS zone, or have been allowed by the owner to register it through a valid TXT record.  
 
-It's to be used as a means to easily contact webmasters and talk with people visiting the same websites.  
+When a channel is not registered, it just means the owner has not registered it yet.
+You are entirely allowed to use unregistered channels, the only difference with registered
+ones is that nobody has operator privileges there, which means any incident must be reported
+to the network staff itself, who will most likely tell you to use **/ignore** or convince the
+domain name owner to come and register his channel.
 
 
 ## How to connect?
