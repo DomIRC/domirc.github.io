@@ -19,7 +19,7 @@ Organization membership is mandatory for our operators, but not restricted to th
 
 ## Network Staff
 
-Here is a list of volunteers and bots in charge of the DomIRC network.  
+Here is a list of volunteers and bots in charge of the network.  
 Please note that helpers do not have the operator status nor operator privileges.  
 If you need any help, please ask in **#domirc** instead of messaging them directly.  
 You can also use the `/msg HelpServ help request` command.  
@@ -31,7 +31,9 @@ You can also use the `/msg HelpServ help request` command.
 
 ### Helpers
 
-There is no helper at this point, please refer to an operator instead.  
+‣ **tacocat** (James Lu) - Helper  
+
+If no helper is available, please refer to an operator instead.  
 
 ### Bots
 
