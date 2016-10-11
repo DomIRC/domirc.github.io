@@ -15,7 +15,7 @@ We break the "**first arrived, first served**" principle of IRC channels, so you
 a [domain name channel](/registration/#domain-name-channels) only if you are its owner, control
 the DNS zone, or have been allowed by the owner to register it through a valid TXT record.  
 
-When a channel is not registered, it just means the owner has not registered it yet.
+When a channel is not registered, it just means no one **owns** it (yet).
 You are entirely allowed to use unregistered channels, the only difference with registered
 ones is that nobody has operator privileges there, which means any incident must be reported
 to the network staff itself, who will most likely tell you to use **/ignore** or convince the
