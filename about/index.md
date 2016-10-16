@@ -57,11 +57,12 @@ they will tell you about our policies and procedures, or redirect you to the rig
 
 The channels are listed by alphabetical order.  
 
-‣ **#bfnt** - Blackfields Network, the parent organization of DomIRC.  
+‣ **#bfnt** - Blackfields Network (BFNT), the parent organization of DomIRC.  
 ‣ **#domirc** - The DomIRC network itself, general support channel.  
 ‣ **#elitebnc** - [EliteBNC](https://www.elitebnc.org/) is a registered IRC bouncer provider.  
-‣ **#idlerpg** - The DomIRC's official IdleRPG channel.  
+‣ **#idlerpg** - Our IdleRPG channel, managed by the network staff.  
 ‣ **#superbnc** - [SuperBNC](https://superbnc.com/) is a registered IRC bouncer provider.  
+‣ **#techcavern** - [TechCavern](https://github.com/TechCavern) is a FOSS organization, sponsored by BFNT.  
 
 
 ## Registered Providers
