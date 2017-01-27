@@ -28,10 +28,11 @@ You can also use the `/msg HelpServ help request` command.
 
 ‣ **Xenthys** (Dylan Ysmal) - System Administrator  
 ‣ **Zoddo** (Yohan Prod'homme) - Network Operator  
+‣ **tacocat** (James Lu) - IRC Operator  
 
 ### Helpers
 
-‣ **tacocat** (James Lu) - Helper  
+*There is no helper (yet).*
 
 If no helper is available, please refer to an operator instead.  
 
